@@ -2,7 +2,7 @@ import React from 'react';
 // import employeeMSImage from "../assets/employee-ms.png";
 // import bookMSImage from "../assets/admin-dashboard.png";
 import Screenshot from "../assets/Screenshot.png"
-
+import Screenshot1 from '../assets/Screenshot1.png'
 const projects = [
   {
     id: 1,
@@ -11,13 +11,13 @@ const projects = [
     image: Screenshot,
     github: "https://cpptrainer.infinityfreeapp.com/",
   },
-  // {
-  //   id: 2,
-  //   name: "Blog App",
-  //   technologies: "MERN Stack",
-  //   image: bookMSImage,
-  //   github: "https://github.com/YouafKhan1",
-  // },
+  {
+    id: 2,
+    name: "ONLINE JOB REQUEST FOR ICT SERVICES",
+    technologies: "",
+    image: Screenshot1,
+    github: "https://ictservices.ct.ws/",
+  },
   // {
   //   id: 3,
   //   name: "Book MS",
