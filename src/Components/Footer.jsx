@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="border-t border-gray-600 pt-4 flex flex-col md:flex-row 
           justify-between items-center">
                 <p className="text-gray-400">
-                    &copy; {new Date().getFullYear()} Yousaf. All rights reserved.
+                    {/* &copy; {new Date().getFullYear()} Yousaf. All rights reserved. */}
                 </p>
                 <div className="flex space-x-4 my-4 md:my-0">
                     <a href="https://www.facebook.com/JhonloydGonatoNacional" className="text-gray-400 hover:text-white">
